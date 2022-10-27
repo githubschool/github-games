@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-## Added cerified user 2
+## Added cerified user
 
 A project based learning activity for people who are getting started with Git and GitHub.
 

@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub. Adding a new sentence for education purposes.
 
 You can play the game at: https://github.com/Stepwisecliche/github-games
 
